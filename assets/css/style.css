@@ -1,0 +1,21 @@
+* {
+  --whiite: hsl(0, 0%, 100%);
+  --background: hsl(30, 54%, 90%);
+  --Eggshell: hsl(30, 54%, 90%);
+}
+
+body {
+  background-color: var(--background);
+}
+
+img {
+  width: 50px;
+}
+
+.quebra {
+  border: 1px rgb(175, 171, 171) solid;
+}
+
+#receita {
+  width: 300px;
+}
